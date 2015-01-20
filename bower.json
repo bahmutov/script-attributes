@@ -16,8 +16,7 @@
     "tests",
     "docs",
     "Gruntfile.js",
-    "package.json",
-    "images"
+    "package.json"
   ],
-  "main": "dist/self-addressed.js"
+  "main": "self-addressed.js"
 }
