@@ -38,11 +38,15 @@
   ],
   "license": "MIT",
   "main": "script-attributes.js",
+  "pre-commit": [
+    "grunt",
+    "npm version"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:bahmutov/script-attributes.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt"
   }
 }
