@@ -1,9 +1,9 @@
 {
-  "name": "self-addressed",
-  "version": "0.2.1",
-  "description": "Transform postMessage to return a promise",
+  "name": "script-attributes",
+  "version": "0.0.1",
+  "description": "Pass options to the JavaScript using script attributes",
   "license": "MIT",
-  "homepage": "https://github.com/bahmutov/self-addressed",
+  "homepage": "https://github.com/bahmutov/script-attributes",
   "authors": [
     "Gleb Bahmutov <gleb.bahmutov@gmail.com>"
   ],
